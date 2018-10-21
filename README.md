@@ -9,7 +9,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 
 ## Getting Started: 
 Download the "screenshots" folder to access the animations of each command. 
-This will allow you to better see how LIRI works. 
+This will allow you to better see how LIRI works with each given command. 
 
 
 ## concert-this: 
