@@ -25,7 +25,7 @@ This will search the Bands in Town Artist Events API for an artist and render th
 
 ## Spotify-this-song: 
 
-![Screen shot](. /images/spotify-this-song-3500.JPG)
+![Screen shot](images/spotify-this-song-3500.JPG)
 
 This will show the following information about the song in your terminal/bash window
 
@@ -36,7 +36,7 @@ This will show the following information about the song in your terminal/bash wi
 
 ## movie-this: 
 
-![Screen shot](. /images/movie-this-IT.JPG)
+![Screen shot](images/movie-this-IT.JPG)
 
 This will output the following information to your terminal/bash window:
 -	Title of the movie.
@@ -50,7 +50,7 @@ This will output the following information to your terminal/bash window:
 
 ## do-what-it-says: 
 
-![Screen shot](. /images/do-what.JPG)
+![Screen shot](images/do-what.JPG)
 
 LIRI will use the text from “random.txt” and call on of LIRI’s commands. 
 It should run Spotify-this-song for “I want it That way”. 
