@@ -14,7 +14,7 @@ This will allow you to better see how LIRI works with each given command.
 
 ## concert-this: 
 
-![Screen shot](. /images/concert-this-drake.JPG)
+![Screen shot](images/concert-this-drake.JPG)
 
 
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
