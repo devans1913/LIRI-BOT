@@ -7,9 +7,13 @@ LIRI is a command line node app that takes in parameters and gives you back data
 -	movie-this
 -	do-what-it-says
 
+## Getting Started: 
+Download the "screenshots" folder to access the animations of each command. 
+This will allow you to better see how LIRI works. 
+
 
 ## concert-this: 
-![concert-this](./screenshots/concert-this.mp4)
+
 
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
 
