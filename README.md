@@ -42,11 +42,6 @@ This will output the following information to your terminal/bash window:
 LIRI will use the text from “random.txt” and call on of LIRI’s commands. 
 It should run Spotify-this-song for “I want it That way”. 
 
-## Development 
-
-We wanted to create a personal drone portfolio/platform for drone enthusiast to share their work, upload content and tag it with a location. In knowing the location, users are also able to access the weather to determine if it is appropriate to fly.  
-
-
 ## Technologies used:
 
 * Spotify API
